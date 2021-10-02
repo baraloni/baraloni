@@ -1,6 +1,5 @@
 ### Hi there 👋
-I am Bar.
-A Computer Scientist, graduated from the Hebrew University of Jerusalem.
+I am Bar, a Computer Scientist, graduated from the Hebrew University of Jerusalem.
 I Enjoy learning and find creative solutions for complex challenges.
 I'm Most interested in: Data Management.
 
