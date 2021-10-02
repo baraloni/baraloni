@@ -1,9 +1,10 @@
 ### Hi there 👋
-I am Bar, a recent Computer Science graduate from the Hebrew University of Jerusalem.
-I'm Most interested in: ML, AI and Data Management.
+I am Bar.
+A Computer Scientist, graduated from the Hebrew University of Jerusalem.
+I Enjoy learning and find creative solutions for complex challenges.
+I'm Most interested in: Data Management.
 
-- ⚡ Fun fact: I've been drawing since childhood and I still enjoy it:)
-
+- ⚡ Fun fact: I enjoy drawing and learning new languages.
 
 
 <!--
